@@ -38,7 +38,7 @@ AZURE_OPENAI_API_VERSION=2024-12-01-preview
 ## Usage
 
 ```
-python main.py -i <url_file> [-o <output_prefix>]
+python generAItor.py -i <url_file> [-o <output_prefix>]
 ```
 
 | Flag | Description |
