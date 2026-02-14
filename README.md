@@ -14,8 +14,8 @@ AI-powered wordlist generator for bug bounty reconnaissance. Scrapes a list of t
 ## Installation
 
 ```bash
-git clone https://github.com/<you>/Gener-AI-tor.git
-cd Gener-AI-tor
+git clone https://github.com/uplipht12/generAItor.git
+cd generAItor
 pip install -r requirements.txt
 ```
 
